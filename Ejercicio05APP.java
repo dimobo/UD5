@@ -1,9 +1,9 @@
-package code;
+
 
 //Área de imports
 import javax.swing.JOptionPane;
 
-public class Ejercicio5APP {
+public class Ejercicio05APP {
 	public static void main(String[] args) {
 
 		// Esta variable nos pedirá el radio des de un jpanel.

@@ -1,6 +1,6 @@
-package code;
 
-public class Ejercicio7APP {
+
+public class Ejercicio07APP {
 	public static void main(String[] args) {
 
 		// Esta variable nos servirá para ir subiendo des del 1 al 100.

@@ -1,4 +1,4 @@
-package code;
+
 
 public class Ejercicio01APP {
 	public static void main(String[] args) {

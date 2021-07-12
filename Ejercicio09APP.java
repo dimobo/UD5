@@ -1,6 +1,6 @@
-package code;
 
-public class Ejercicio9APP {
+
+public class Ejercicio09APP {
 	public static void main(String[] args) {
 
 		// He usado un bucle for porque me parece mejor teniendo en cuenta que usaremos

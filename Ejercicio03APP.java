@@ -1,9 +1,9 @@
-package code;
+
 
 //Área de imports
 import javax.swing.JOptionPane;
 
-public class Ejercicio3APP {
+public class Ejercicio03APP {
 	public static void main(String[] args) {
 
 		// Esta variable nos pedirá el nombre des de un jpanel.

@@ -1,6 +1,6 @@
-package code;
 
-public class Ejercicio2APP {
+
+public class Ejercicio02APP {
 	public static void main(String[] args) {
 
 		// Aquí generamos la variable que contendrá nuestro nombre.

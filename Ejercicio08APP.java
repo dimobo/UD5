@@ -1,6 +1,6 @@
-package code;
 
-public class Ejercicio8APP {
+
+public class Ejercicio08APP {
 	public static void main(String[] args) {
 
 		// En este caso ya no es necesario declarar la variable i al principio porque la

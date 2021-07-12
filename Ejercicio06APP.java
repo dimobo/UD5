@@ -1,9 +1,9 @@
-package code;
+
 
 //Área de imports
 import javax.swing.JOptionPane;
 
-public class Ejercicio6APP {
+public class Ejercicio06APP {
 	public static void main(String[] args) {
 
 		// Esta variable nos pedirá el precio des de un jpanel.
